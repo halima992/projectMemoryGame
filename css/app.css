@@ -21,6 +21,7 @@ body {
     font-family: 'Coda', cursive;
 }
 
+
 .container {
     display: flex;
     justify-content: center;
@@ -106,4 +107,64 @@ h1 {
 .score-panel .restart {
     float: right;
     cursor: pointer;
+}
+
+.score-panel .timer {
+	margin-left:32px
+}
+
+/*
+ * Styles for the model
+ */
+
+.modal {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    opacity: 0;
+    visibility: hidden;
+    transform: scale(1.1);
+    transition: visibility 0s linear 0.25s, opacity 0.25s 0s, transform 0.25s;
+    }
+	
+.modal-content {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background-color: white;
+	padding: 100%;
+	border-radius: 0.5rem;
+}
+
+.modal-content h1{
+	text-align:center; 	
+	color:#02b3e4 ; 
+	font-size:100px;
+}
+
+.modal-content p{
+	font-size:32px;
+}
+
+.show-modal {
+	opacity: 1;
+	visibility: visible;
+	transform: scale(1.0);
+	transition: visibility 0s linear 0s, opacity 0.25s 0s, transform 0.25s;
+}
+
+.modal-content button{   
+	background-color: #4CAF50; 
+	border: none;
+	color: white;
+	padding: 40px  100px;;
+	text-align: center;
+	text-decoration: none;
+	font-size: 32px;
+	border-radius: 12px;
+	margin:20% 30% ;
 }
