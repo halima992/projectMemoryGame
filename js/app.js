@@ -32,7 +32,9 @@ function pad(val) {
 }
 })();
 
-
+document.querySelector(".restart").addEventListener('click' ,function(){	
+location.reload();
+});
 //-------------------------------------------------------------------
 for (var i = 0; i < arrayElementLi.length; i++) {
     arrayElementI[i] = arrayElementLi[i].firstElementChild;
