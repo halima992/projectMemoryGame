@@ -1,9 +1,3 @@
-    
-	
-	
-	
-	
-	
 let arrayElementLi = document.querySelectorAll(".card"),
     arrayElementI = [],
     parentOfCard = document.querySelector(".deck"),
@@ -16,7 +10,8 @@ let arrayElementLi = document.querySelectorAll(".card"),
     numOfStars = 0,
  	minutes = document.getElementById("minutes"),
     seconds = document.getElementById("seconds"),
-    totalSeconds = 0;
+    totalSeconds = 0;	
+
 //-------------------------------------------------------------------
 /**/
 (function (){
