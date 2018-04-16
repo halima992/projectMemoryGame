@@ -144,8 +144,6 @@ function addToList(element ,index) {
 function matchCard() {
 
     if ((child[0] === child[1]) &&  child.length ===2 ) {
-		console.log('iam here'+ indexOfFirst);
-		console.log('iam'+ indexOfSecond);
         parent[0].classList.add('match');
         parent[1].classList.add('match');
        counterForwin+=2;
