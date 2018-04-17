@@ -1,20 +1,21 @@
 # Memory Game Project
 
-## Table of Contents
+this project devloped  by HTML, CCS, JavaScript .and the devloping not from scartch , the folder from Udacity using on the devloping  .
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
 
-## Instructions
+## How to play the game
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+- this game  contain 16 card (8 card pair) 
+- the player must flip the card by click on it.
+- when the player flip two card if matched then still open ,if not the card flipped face down 
+- the player need to remember the places of icons on the game for  done it with  a hight rate, less time  and less number of moves .
 
-To get started, open `js/app.js` and start building out the app's functionality
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+## how to win the game
 
-## Contributing
+when all cards are matched with their pairs then the player win 
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+## How to download the game
 
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+- [Clone](https://github.com/halima992/projectMemoryGame) the Repository
+- open `index.html` in your browser
