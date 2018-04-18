@@ -29,12 +29,10 @@ the project from Udacity for raising our skills up on HTML ,CSS and javascript b
 | --------------------- | ----------------- |
 | Memory Game Logic     | at each beign of the game the cards must be shuffled randomaly and the player win when all cards match  |
 | Restart Button        | when a player is clicking restart icon the program let to reset game board ,move counter and start rating |
-| Star Rating           | there are 3 stars displayed by game for represented the performance of player, at some points after number of moving 
- the stars decreasing until reach to one star that mean the peformance of player not good enugh in this game  |
+| Star Rating           | there are 3 stars displayed by game for represented the performance of player, at some points after number of moving the stars decreasing until reach to one star that mean the peformance of player not good enugh in this game  |
 | Timer                 | how match of time does take in this game , the timer begin when the player start and stop when the player won|
 | Move Counter          | this counter for the movement of player when opened two cards matched or not|
-| Congratulations show  |when all cards matched , the model of win shows to congrat the player for win , 
-appears him/her performance and the time taken for finished this game also asked him/her if want to play again|
+| Congratulations show  |when all cards matched , the model of win shows to congrat the player for win , appears him/her performance and the time taken for finished this game also asked him/her if want to play again|
 
 ### Interface Design
 
@@ -53,9 +51,9 @@ appears him/her performance and the time taken for finished this game also asked
 
 
 ## Installing From Source
-1- [Clone](https://github.com/halima992/projectMemoryGame) the Repository
-2- load `index.html` in your browser
-3- play the game
+1 - [Clone](https://github.com/halima992/projectMemoryGame) the Repository
+2 - load `index.html` in your browser
+3 - play the game
 
 ## Author
 Haliam Josh 
