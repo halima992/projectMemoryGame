@@ -16,10 +16,10 @@ the project from Udacity for raising our skills up on HTML ,CSS and javascript b
 
 ### How The Game Works
 
--this game  contain 16 card (8 card pair). 
--the player must click on card's icon  to match each card with its pair . 
--the player need to remember the places of icons on the game for  done it with  a hight rate, less time  and less number of moves .
--the player win when all cards are matched with their pairs.
+- this game  contain 16 card (8 card pair). 
+- the player must click on card's icon  to match each card with its pair . 
+- the player need to remember the places of icons on the game for  done it with  a hight rate, less time  and less number of moves .
+- the player win when all cards are matched with their pairs.
 
 ## Project Requirement Specifications
 
