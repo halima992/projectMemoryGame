@@ -1,7 +1,8 @@
+# Memory Game project
 
 ## Table of Contents
 
-* [Instructions](#Memory_game)
+* [Memory game](#Memory_game)
 * [Project Requirement Specifications](#Project-Requirement-Specifications)
 * [Installing From Source](#Installing-From-Source)
 * [Author](#Author)
