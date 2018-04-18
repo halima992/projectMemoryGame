@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-* [Memory game](#Memory_game)
-* [Project Requirement Specifications](#Project-Requirement-Specifications)
-* [Installing From Source](#Installing-From-Source)
-* [Author](#Author)
-* [Contributing](#Contributing)
+* [Memory game](#memory_game)
+* [Project Requirement Specifications](#project-requirement-specifications)
+* [Installing From Source](#installing-from-source)
+* [Author](#author)
+* [Contributing](#contributing)
 
 ## Memory game
 
