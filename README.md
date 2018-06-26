@@ -10,8 +10,10 @@
 
 
 
-##My Reads
-###Objective
+## My Reads
+
+### Objective
+
  create a bookshelf app that allows the users of this App to select and categorize books they  have read, are currently reading, or want to read.the project must using react to build the application .
 
 ##Project Requirement Specifications
@@ -38,12 +40,14 @@
 -The user is able to search for multiple words, such as “artificial intelligence|
 |the search results allow a user to categorize a book                 |Search results on the search page allow the user to select one of shelves to place the book on certain shelf |
 |selections made on the search page show up on the main page          |When an item is categorized on the search page and the user navigates to the main page, it appears on that shelf in the main page.|
-###Routing
-| Criteria                             | Specifications                        |
+
+### Routing
+| Criteria                             | Specifications                            |
 | ---------------------------------------- | --------------------------------------|
 | the main page link to the search page    | The main page contains a link to the search page. When the link is clicked, the search page is displayed and the URL in the browser’s address bar is /search.|
 |the search page link back to the main page| The search page contains a link to the main page. When the link is clicked, the main page is displayed and the URL in the browser’s address bar is /.|
-###Code Functionality
+
+### Code Functionality
 | Criteria              | Specifications    |
 | --------------------- -------------------------------|----------------------------------------- |
 |the project code handle state management appropriately|Component state is passed down from parent components to child components. The state variable is not modified directly |
@@ -51,13 +55,14 @@
 
 
 ## Installing From Source
- To install the application clone this git repository
+ - To install the application clone this git repository
 
- Go into the application folder
+ - Go into the application folder
 
-install all project dependencies with `npm install`
+ - install all project dependencies with `npm install`
 
- start the development server with `npm start`
+ - start the development server with `npm start`
+ 
 ## Author
  Haliam Josh
 
