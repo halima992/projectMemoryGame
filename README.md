@@ -46,7 +46,7 @@
 |JSX formatted properly                                |All JSX code is formatted properly and functional.|
 
 
-##Installing From Source
+## Installing From Source
  To install the application clone this git repository
 
  Go into the application folder
