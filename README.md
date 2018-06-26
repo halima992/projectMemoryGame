@@ -20,13 +20,17 @@
 | Criteria                            | Specifications               |
 | ------------------------------------| ---------------------------- |
 |application easy to install and start|The application was created with create-react-app and requires only npm install and npm start to get it installed and launched.|
-###Main Page
+
+
+### Main Page
 | Criteria                                   | Specifications                       |
 | -------------------------------------------|--------------------------------------|
 |the main page show three bookshelves        |The main page shows 3 shelves for books, and each book is shown on the correct shelf.|
 |allowing users to move books between shelves|The main page shows a control that allows users to move books between shelves. The control should be tied to each book instance.|
 |information persist between page refreshes  |When the browser is refreshed, the same information is displayed on the page.|
-###Search Page
+
+
+### Search Page
 | Criteria                                                            | Specifications                        |
 | --------------------------------------------------------------------|---------------------------------------|
 | the search page have a search input that lets users search for books| -The search page has a search input field
