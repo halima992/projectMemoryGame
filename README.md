@@ -46,8 +46,8 @@
 |the search page link back to the main page| The search page contains a link to the main page. When the link is clicked, the main page is displayed and the URL in the browser’s address bar is /.|
 
 ### Code Functionality
-| Criteria              | Specifications    |
-| --------------------- -------------------------------|----------------------------------------- |
+| Criteria                                             | Specifications                          |
+| ----------------------------------------------------|----------------------------------------- |
 |the project code handle state management appropriately|Component state is passed down from parent components to child components. The state variable is not modified directly |
 |JSX formatted properly                                |All JSX code is formatted properly and functional.|
 
